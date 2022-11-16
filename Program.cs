@@ -10,3 +10,14 @@ for (int contador = 1; contador <= quantidadeNotas; contador++)
 }
 
 double mediaFinal = somaDasNotas / quantidadeNotas;
+
+if (mediaFinal >= 6)
+{
+    Console.WriteLine($"A média do aluno foi de: {mediaFinal}");
+    Console.WriteLine("Parabéns, você passou!");
+}
+else
+{
+    Console.WriteLine($"A média do aluno foir de: {mediaFinal}");
+    Console.WriteLine("Infelizmente você ficou de recuperação!");
+}

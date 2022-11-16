@@ -8,3 +8,5 @@ for (int contador = 1; contador <= quantidadeNotas; contador++)
     double nota = Convert.ToDouble(Console.ReadLine());
     somaDasNotas += nota;
 }
+
+double mediaFinal = somaDasNotas / quantidadeNotas;

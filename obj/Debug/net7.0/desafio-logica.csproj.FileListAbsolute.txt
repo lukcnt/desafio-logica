@@ -1,0 +1,15 @@
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\bin\Debug\net7.0\desafio-logica.exe
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\bin\Debug\net7.0\desafio-logica.deps.json
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\bin\Debug\net7.0\desafio-logica.runtimeconfig.json
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\bin\Debug\net7.0\desafio-logica.dll
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\bin\Debug\net7.0\desafio-logica.pdb
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\obj\Debug\net7.0\desafio-logica.csproj.AssemblyReference.cache
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\obj\Debug\net7.0\desafio-logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\obj\Debug\net7.0\desafio-logica.AssemblyInfoInputs.cache
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\obj\Debug\net7.0\desafio-logica.AssemblyInfo.cs
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\obj\Debug\net7.0\desafio-logica.csproj.CoreCompileInputs.cache
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\obj\Debug\net7.0\desafio-logica.dll
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\obj\Debug\net7.0\refint\desafio-logica.dll
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\obj\Debug\net7.0\desafio-logica.pdb
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\obj\Debug\net7.0\desafio-logica.genruntimeconfig.cache
+C:\Users\lucas-cantoni\Desktop\GitHub\desafio-logica\obj\Debug\net7.0\ref\desafio-logica.dll
